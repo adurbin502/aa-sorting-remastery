@@ -1,7 +1,3 @@
-const {
-  sort,
-} = require("../aa06-insertion-sort-temp/insertion-sort");
-
 const arr1 = [23, 12, 43, 5, 121, 56, 4];
 const arr2 = [231, 143, 653, -32, 44, 497, 6];
 
