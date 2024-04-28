@@ -9,6 +9,7 @@ function insertSort(arr) {
   //   to be sorted.
   // 5. Insert the value.
   // 6. Repeat until list is sorted.
+  
   let copy = [...arr];
   let sorted = [];
 
